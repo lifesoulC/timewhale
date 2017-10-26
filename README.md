@@ -1,5 +1,5 @@
 # timewhale
-/*****************READ ME***********************
+
 
 ###时间结构体
 
@@ -79,4 +79,4 @@ g++ -std=c++11 -o mytimerwhale mytimerwhale.cpp   
 
 
 
-*/
+
